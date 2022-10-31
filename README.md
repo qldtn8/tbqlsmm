@@ -39,7 +39,7 @@ qldtn8@naver.com
 
 [MBTI별 유튜버 분석](https://github.com/tbqlsmm/YUTI)
 
-[3D 방꾸미기 기록형SNS](https://github.com/InfoMansion)
+[3D 방꾸미기 기록형SNS](https://github.com/InfoMansion/InfoMansion)
 
 [영양제 추천 애플리케이션](https://github.com/Capstone2021-2)
 

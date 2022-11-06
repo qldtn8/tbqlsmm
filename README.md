@@ -41,7 +41,7 @@ qldtn8@naver.com
 
 [3D 방꾸미기 기록형SNS](https://github.com/InfoMansion/InfoMansion)
 
-[영양제 추천 애플리케이션](https://github.com/Capstone2021-2)
+[영양제 추천 애플리케이션](https://github.com/Capstone2021-2/PillSoGood)
 
 [전기차 충전소 정보 애플리케이션](https://github.com/Capstone2021-1)
 

@@ -3,6 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000E6&vCenter=true&width=435&height=60&lines=%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+About+Me!)](https://git.io/typing-svg)
 
+[포트폴리오](https://chwibbo.notion.site/2b68d56b8a9849fbabd2b6686ebb373c)
+
 ---
 
 ### 📮 Email

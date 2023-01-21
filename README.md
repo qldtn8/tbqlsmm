@@ -19,7 +19,7 @@ qldtn8@naver.com
 
 ---
 
-### 🛠 Tech Stack 🛠
+### 🛠 Tech Stack
 
 <img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=Java&logoColor=black"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/> <img src="https://img.shields.io/badge/SpringRestDocs-6DB33F?style=flat-square&logo=SpringRestDocs&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 

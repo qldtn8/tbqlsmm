@@ -27,6 +27,12 @@ qldtn8@naver.com
 
 ---
 
+### ✍🏻 Study
+
+
+
+---
+
 ### 🏫 Education
 
 삼성청년SW아카데미 7기 (Coding Track - Java) (2022.01 ~ 2022.12)
